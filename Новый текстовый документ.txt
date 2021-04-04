@@ -1,0 +1,26 @@
+Тюнер 1
+stabilize: 48.68
+wait pulse
+analysis: 0%	PI p: 0.00	PI i: 0.00	PID p: 0.00	PID i: 0.00	PID d: 0.00
+analysis: 0%	PI p: 146.67	PI i: 282.96	PID p: 220.01	PID i: 707.41	PID d: 17.11
+analysis: 3%	PI p: 133.34	PI i: 8.20	PID p: 200.01	PID i: 20.49	PID d: 488.07
+analysis: 35%	PI p: 21.21	PI i: 0.46	PID p: 31.82	PID i: 1.16	PID d: 219.14
+analysis: 95%	PI p: 20.66	PI i: 0.43	PID p: 30.99	PID i: 1.08	PID d: 222.90
+analysis: 95%	PI p: 20.66	PI i: 0.41	PID p: 30.99	PID i: 1.03	PID d: 232.41
+analysis: 38%	PI p: 0.91	PI i: 0.05	PID p: 1.37	PID i: 0.12	PID d: 3.95
+analysis: 53%	PI p: 0.33	PI i: 0.01	PID p: 0.49	PID i: 0.02	PID d: 2.62
+analysis: 26%	PI p: 733.30	PI i: 76.23	PID p: 1099.94	PID i: 190.58	PID d: 1587.08
+analysis: 24%	PI p: 0.33	PI i: 0.01	PID p: 0.49	PID i: 0.02	PID d: 2.86
+analysis: 20%	PI p: 205.34	PI i: 25.36	PID p: 308.00	PID i: 63.40	PID d: 374.07
+analysis: 18%	PI p: 31.21	PI i: 0.70	PID p: 46.81	PID i: 1.74	PID d: 315.21
+analysis: 96%	PI p: 24.86	PI i: 0.54	PID p: 37.29	PID i: 1.34	PID d: 259.17
+analysis: 93%	PI p: 17.67	PI i: 0.36	PID p: 26.51	PID i: 0.90	PID d: 196.09
+
+Тюнеер 2
+stabilize up: 62.31
+stabilize down: 62.31
+got t2
+got t3
+compute
+result: PI p: -4.56	PI i: 0.26	PID p: -6.48	PID i: 2.80	PID d: 1.96
+
